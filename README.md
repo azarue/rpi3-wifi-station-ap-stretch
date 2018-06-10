@@ -49,9 +49,9 @@ probably WPA, and so should look like:
     country=GB
     
     network={
-	    ssid='ssid'
+	    ssid="ssid"
 	    scan_ssid=1
-	    psk=87654321
+	    psk="87654321"
 	    key_mgmt=WPA-PSK
     }
 
